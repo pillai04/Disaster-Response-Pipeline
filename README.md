@@ -35,4 +35,4 @@ The datasets used contain real messages that were sent during disaster events. I
 2. Run the following command in the app's directory to run your web app.
     `python run.py`
 
-3. Go to http:///0.0.0.0:3001/
+3. Go to http://0.0.0.0:3001/
